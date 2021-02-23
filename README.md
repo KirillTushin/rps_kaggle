@@ -1,1 +1,1 @@
-best_solution
+The 21-place solution for the Rock-Paper-Scissors competition on Kaggle
